@@ -1,4 +1,4 @@
-# media-audio-stream-inspector
+# Media-audio-stream-inspector
 
 cli tool in python for streaming audio processing (100ms chunks), hot RMS/LUFS calc, and zero-melt transient gating.
 
